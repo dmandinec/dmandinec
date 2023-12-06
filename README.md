@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning TypeScript, Python, Shell
+
+⚡ Fun fact: I very much like most of operating systems out there. I like managing OSs, But i am also interested in learning new stuff.
 <!--
 **dmandinec/dmandinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
