@@ -7,4 +7,4 @@
 
 🌐 Owner of [zmanipulovano.cz](https://zmanipulovano.cz)  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/813686494581227530)
+📩 Discord: ![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white) @vecerninec
